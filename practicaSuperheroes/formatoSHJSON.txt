@@ -1,0 +1,15 @@
+[
+    {
+        "id":, 
+        "nombreSuperheroe":"",
+        "nombreReal":"",
+        "nombreSociedad": "", 
+        "edad": , 
+        "planetaOrigen": "", 
+        "debilidad": "", 
+        "poder": [" ", " ", " ", ""], 
+        "habilidadEspecial": "", 
+        "aliado": [""], 
+        "enemigo": [""]
+    }
+]

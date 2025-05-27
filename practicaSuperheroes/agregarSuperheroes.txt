@@ -1,0 +1,54 @@
+[
+  {
+    "id": 4,
+    "nombreSuperheroe": "Black Widow",
+    "nombreReal": "Natasha Romanoff",
+    "nombreSociedad": "Avengers",
+    "edad": "33",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Su pasado",
+    "poder": "Maestra en combate cuerpo a cuerpo",
+    "habilidadEspecial": "Espionaje avanzado",
+    "aliado": "Hawkeye",
+    "enemigo": "Taskmaster"
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Avengers",
+    "edad": "40",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Incapacidad para controlar la ira",
+    "poder": "Fuerza ilimitada",
+    "habilidadEspecial": "Resistencia sobrehumana",
+    "aliado": "Viuda Negra",
+    "enemigo": "Abominación"
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Capitán América",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Avengers",
+    "edad": "103",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Sentido del deber",
+    "poder": "Fuerza sobrehumana",
+    "habilidadEspecial": "Habilidades tácticas y de combate",
+    "aliado": "Iron Man",
+    "enemigo": "Cráneo Rojo"
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Avengers",
+    "edad": "40",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Arrogancia",
+    "poder": "Magia avanzada, control del tiempo",
+    "habilidadEspecial": "Manipulación de hechizos místicos",
+    "aliado": "Wong",
+    "enemigo": "Dormammu"
+  }
+]
