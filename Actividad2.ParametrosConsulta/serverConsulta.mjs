@@ -1,3 +1,6 @@
+//Leila Margarita Cura
+//Servidor que recibe una solicitud get con un parametro de consulta edad en la URL y muestra el parametro en consola
+
 import express from 'express';
 
 const app = express();
